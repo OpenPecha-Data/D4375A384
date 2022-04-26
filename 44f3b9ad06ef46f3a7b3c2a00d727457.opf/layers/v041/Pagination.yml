@@ -175,75 +175,75 @@ annotations:
     reference: ''
     span:
       start: 30763
-      end: 32075
+      end: 32074
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   fc254517a02c480995d965cfc0fbc220:
     imgnum: 143
     reference: ''
     span:
-      start: 32077
-      end: 33381
+      start: 32076
+      end: 33380
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   a115eb0598a44b3c85c04508e693702b:
     imgnum: 144
     reference: ''
     span:
-      start: 33383
-      end: 34685
+      start: 33382
+      end: 34684
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   bdb3a29f77b1447e8fb850f0c36c58ba:
     imgnum: 145
     reference: ''
     span:
-      start: 34687
-      end: 35965
+      start: 34686
+      end: 35964
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   0b411df3fe8f44e4ade211c76b1cb376:
     imgnum: 146
     reference: ''
     span:
-      start: 35967
-      end: 37244
+      start: 35966
+      end: 37243
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   2f8561ed32e44eb3a9ac4156f6d7b465:
     imgnum: 147
     reference: ''
     span:
-      start: 37246
-      end: 38552
+      start: 37245
+      end: 38551
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   e30a551b2ffe4afb9898ffe813cb982b:
     imgnum: 148
     reference: ''
     span:
-      start: 38554
-      end: 39787
+      start: 38553
+      end: 39786
     note_ref: e932cfc62df5467a9f858669f2afe4b2
   b20f4dbcfa8847df9b16cc2cb74924d5:
     imgnum: 149
     reference: ''
     span:
-      start: 39789
-      end: 40414
+      start: 39788
+      end: 40413
     note_ref: 43b54c12e9c74a6382d2f62c70e62a44
   1a1511a4e508464fa33401ead735d581:
     imgnum: 150
     reference: ''
     span:
-      start: 40416
-      end: 41939
+      start: 40415
+      end: 41938
   e932cfc62df5467a9f858669f2afe4b2:
     imgnum: 151
     reference: ''
     span:
-      start: 41941
-      end: 43656
+      start: 41940
+      end: 43655
   43b54c12e9c74a6382d2f62c70e62a44:
     imgnum: 152
     reference: ''
     span:
-      start: 43658
-      end: 43750
+      start: 43657
+      end: 43749
 local_ids:
   21f237f3c58b46ccb78d4e90f91dcb2f: 200000
   52c3d81941b54e979b45d23932437cc0: 200001
